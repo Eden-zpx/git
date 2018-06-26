@@ -1,0 +1,37 @@
+.module-container{
+    background-color: #22252a;
+    width: 100%;
+    overflow: hidden;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.module-container img{
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.module-profession{
+    position: relative;
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #f5f5f6;
+}
+
+.module-profession .all-icon{
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+}
+
+.module-profession i{
+    display: block;
+    width: 35px;
+    height: 35px;
+    margin: 18px auto;
+}
